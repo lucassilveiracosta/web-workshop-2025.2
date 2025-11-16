@@ -1,12 +1,12 @@
 button {
-  /* background-color: ; */
-  /* border-radius: ; */
+  background-color: white;
+  border-radius: 6px;
   /* padding: ; */
-  /* margin-bottom: ; */
+  margin-bottom: 0px;
 }
 
 button:hover {
-  /* cursor: ; */
+  cursor: pointer;
 }
 
 a {
